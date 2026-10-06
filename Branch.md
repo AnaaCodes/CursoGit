@@ -8,5 +8,5 @@ Criar uma ramificação: git switc -c nomeDaBranchNova ex feature/login
 Trazer a branch para o main: git merge nomeDaBranch
 git branch -> listas as ramificações locais
 git switch nome -> troca de branch
-git add . -> Add todos os arquivos alterados para Stege
+git merge nome -> Trazer as alterações da ramificação para outra branch, para isso deve se estar dentro da ramificação que você quer que vá as alterações
 
